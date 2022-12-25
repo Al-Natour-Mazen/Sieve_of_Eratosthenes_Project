@@ -1,4 +1,4 @@
-# Prog_C_Project
+# Crible_Ératosthène_Project
 A student Project from the University of Poitiers , in France.
 
 ======================ENGLIISH=====================
